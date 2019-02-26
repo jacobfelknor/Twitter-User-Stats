@@ -5,7 +5,7 @@ NOTE: 'twitterStats2019.py' is the BACKEND implementation of our program. To use
 
 Instructions to run:
   Navigate to the TwitterUserStats folder
-  Ensure that the two main librarys: Flask and Tweedy are installed. We have included a .zip file of the files. You can also use the command $pip install {library name} to install the files as well.
+  Ensure that the two main librarys: Flask and Tweepy are installed. We have included a .zip file of the files. You can also use the command $pip install {library name} to install the files as well.
   Once the files are installed go to the directory of the python file.
   Run the python file using the command python appDriver.py
   This command should pop up a https address in the terminal. Copy and paste that https address into a browser.
