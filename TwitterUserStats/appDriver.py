@@ -6,10 +6,11 @@ except ImportError:
 import tweepy
 
 # Variables that contains the user credentials to access Twitter API 
-ACCESS_TOKEN = '3067050784-dHA28dy0Q5dRQ6gq0FbtP1RSOIiUTUaqbGorU3e'
-ACCESS_SECRET = 'prXOwddr07Pz5kcuwZYTOxKGWRkbjylaqsr022EvhkHXu'
-CONSUMER_KEY = 'mjjwlnKgURc4IkQ4bZ55GlVJp'
-CONSUMER_SECRET = '2eDxNQ1AjRc7lEe2XbgvW1DJ6BZjaoojiStIdEGYhtqmcoF6hL'
+# Must have a developer twitter account to obtain these keys
+ACCESS_TOKEN = 'access token here'
+ACCESS_SECRET = 'acccess secret here'
+CONSUMER_KEY = 'consumer key here'
+CONSUMER_SECRET = 'consumer secret here'
 
 
 a = Flask(__name__)
